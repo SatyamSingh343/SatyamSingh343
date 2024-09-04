@@ -61,7 +61,7 @@
 <ul>
     <li><b>Vellore Institute of Technology, Bhopal</b> (September 2021 – May 2025)</li>
     <p>Bachelor of Computer Science, Specialization in Machine Learning and Artificial Intelligence</p>
-    <p><b>CGPA:</b> 8.42/10</p>
+    <p><b>CGPA:</b> 8.52/10</p>
 </ul>
 
 <p align="left"><b>Experience:</b></p>
