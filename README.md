@@ -76,34 +76,7 @@
     </ul>
 </ul>
 
-<p align="left"><b>Projects:</b></p>
-<ul>
-    <li><b>Music Streaming App</b> — MongoDB, React.js, Express.js, Firebase Authentication (August 2023 – November 2023)</li>
-    <ul>
-        <li>Orchestrated a scalable music streaming platform, managing over 10,000 monthly active users and reducing login errors by 30% through Firebase Authentication.</li>
-        <li>Fabricated and deployed a bespoke user interface featuring custom player controls, resulting in a 25% increase in user satisfaction and a 20% improvement in engagement metrics.</li>
-        <li>Formulated a robust playlist feature for personalized content management, increasing user retention by 25%.</li>
-        <li><b>Source:</b> <a href="https://github.com/SatyamSingh343/Muse-Main/tree/main">GitHub</a></li>
-    </ul>
 
-    <li><b>Binary Tree Visualization</b> — HTML, CSS, JavaScript, Data Structures (April 2024 – May 2024)</li>
-    <ul>
-        <li>Constructed a web-based visualization tool for Binary Trees, Min-Heap, and Max-Heap structures, enhancing analytical capabilities and driving user engagement.</li>
-        <li>Executed depth-first and breadth-first search algorithms for precise tree traversal and node operations, facilitating interactive learning and exploration for users and achieved a 40% increase in user engagement.</li>
-        <li>Engineered intuitive controls and tooltips for node interaction, simplifying the learning process and enhancing user interaction by 10%.</li>
-        <li><b>Demo:</b> <a href="https://binary-tree-visualiser.vercel.app/">Live Demo</a></li>
-        <li><b>Source:</b> <a href="https://github.com/SatyamSingh343/Binary-Tree-Visualiser">GitHub</a></li>
-    </ul>
-
-    <li><b>Book Store App</b> — MongoDB, Express.js, React.js, Node.js (February 2024 – May 2024)</li>
-    <ul>
-        <li>Built a bookstore software for browsing, purchasing, and reviewing books, resulting in a 5% increase in monthly sales.</li>
-        <li>Enhanced data security by implementing JWT tokens, improving user trust metrics and reducing security incidents.</li>
-        <li>Integrated multiple payment gateways for seamless transactions and managed extensive database operations with MongoDB, ensuring secure book listings and user profiles by 10%.</li>
-        <li>Developed a mobile-friendly front-end with React.js, enhancing user engagement and accessibility.</li>
-        <li><b>Source:</b> <a href="https://github.com/SatyamSingh343/BooK-Store-App">GitHub</a></li>
-    </ul>
-</ul>
 
 <p align="left"><b>Technical Skills:</b></p>
 <ul>
